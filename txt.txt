@@ -1,1 +1,3 @@
 git add archivo.algo
+
+git commit -m "prueba de carga txt"
